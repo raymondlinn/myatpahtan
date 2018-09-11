@@ -1,0 +1,16 @@
+
+/*
+Theme Name: Myatpahtan Child
+Theme URI: http://myatpahtan.com
+Description: This is a child theme of WP Bootstrp 4
+Author: Raymond Linn
+Author URI: www.raymondlinn.com
+Template: wp-bootstrap-4
+version: 0.1
+*/
+
+@import url("../wp-bootstrap-4/style.css");
+
+.jumbotron-heading {
+	color: grey;
+}
