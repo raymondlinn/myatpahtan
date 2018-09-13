@@ -1,15 +1,20 @@
 .DS_Store
+/index.php
 wp-admin/
+wp-content/index.php
 wp-content/plugins/
+wp-content/themes/index.php
 wp-content/themes/twentyfifteen/
 wp-content/themes/twentyseventeen/
 wp-content/themes/twentysixteen/
+#### parent theme ####
+# turn off when working on it and turn back on before committing
 wp-content/themes/wp-bootstrap-4/
+#### parent theme ####
 wp-content/upgrade/
 wp-content/uploads/
 wp-includes/
 .htaccess
-index.php
 license.txt
 readme.html
 wp-activate.php
